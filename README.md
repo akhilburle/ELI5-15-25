@@ -1,11 +1,12 @@
 # ELI5/15/25
+
 ELI5/15/25 Documentation Convention
 
-## Introduction:
+## Introduction
 
 Good documentation is essential for any project, and it is important to ensure that it is accessible to people with a wide range of skill levels. In order to make documentation as accessible as possible, we propose a new convention called ELI5/15/25.
 
-## Convention:
+## Convention
 
 The ELI5/15/25 convention consists of three levels of documentation, each catering to a different skill level:
 
@@ -18,13 +19,13 @@ This level of documentation is designed for people who have some basic knowledge
 ### ELI25 (Explain Like I'm 25)
 This level of documentation is designed for people who are experts in the topic. It should provide in-depth information and technical details that are relevant to the topic.
 
-## Implementation:
+## Implementation
 
 In order to implement the ELI5/15/25 convention, documentation should be organized into sections or subsections corresponding to each of the three levels. For example, a section titled "ELI5: Introduction to X" would provide a high-level overview of X, while a section titled "ELI25: Advanced techniques for X" would provide detailed technical information.
 
 It is also important to ensure that the language used in each level of documentation is appropriate for the intended audience. ELI5 sections should use simple, easy-to-understand language, while ELI25 sections can use more technical terms and jargon.
 
-## Benefits:
+## Benefits
 
 The ELI5/15/25 convention has several benefits:
 
@@ -34,7 +35,7 @@ The ELI5/15/25 convention has several benefits:
 
 - It encourages the use of clear, concise language in documentation. By specifying that ELI5 sections should use simple language, it encourages writers to be concise and to avoid using technical terms or jargon when it is not necessary.
 
-## Conclusion:
+## Conclusion
 
 In conclusion, the ELI5/15/25 convention is a simple and effective way to make documentation more accessible and easier to understand. By providing different levels of information and using clear, concise language, it helps to ensure that documentation caters to people with a wide range of skill levels. We believe that this convention would be a valuable addition to any documentation project.
 
