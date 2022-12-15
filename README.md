@@ -28,11 +28,11 @@ It is also important to ensure that the language used in each level of documenta
 
 The ELI5/15/25 convention has several benefits:
 
-It makes documentation more accessible to people with a wide range of skill levels. By providing different levels of information, people can easily find the information that is most relevant and understandable to them.
+- It makes documentation more accessible to people with a wide range of skill levels. By providing different levels of information, people can easily find the information that is most relevant and understandable to them.
 
-It helps to organize documentation in a clear and logical way. By dividing documentation into different levels, it is easier to find the information you are looking for and to understand the relationships between different topics.
+- It helps to organize documentation in a clear and logical way. By dividing documentation into different levels, it is easier to find the information you are looking for and to understand the relationships between different topics.
 
-It encourages the use of clear, concise language in documentation. By specifying that ELI5 sections should use simple language, it encourages writers to be concise and to avoid using technical terms or jargon when it is not necessary.
+- It encourages the use of clear, concise language in documentation. By specifying that ELI5 sections should use simple language, it encourages writers to be concise and to avoid using technical terms or jargon when it is not necessary.
 
 ## Conclusion:
 
