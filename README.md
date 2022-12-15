@@ -39,7 +39,7 @@ In conclusion, the ELI5/15/25 convention is a simple and effective way to make d
 [![CC BY 0.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
-[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication][cc-by].
+[CC0 1.0 Universal (CC0 1.0) Public Domain Dedication][cc-by].  
 To the extent possible under law, Akhil Burle has waived all copyright and related or neighboring rights to ELI5/15/25. This work is published from: United States.
 
 [![CC BY 0.0][cc-by-image]][cc-by]
