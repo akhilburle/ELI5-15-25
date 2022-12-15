@@ -9,11 +9,14 @@ Good documentation is essential for any project, and it is important to ensure t
 
 The ELI5/15/25 convention consists of three levels of documentation, each catering to a different skill level:
 
-*ELI5 (Explain Like I'm 5)*: This level of documentation is designed for people who are new to the topic or have little prior knowledge. It should provide a high-level overview of the topic and use simple, easy-to-understand language.
+### ELI5 (Explain Like I'm 5)
+This level of documentation is designed for people who are new to the topic or have little prior knowledge. It should provide a high-level overview of the topic and use simple, easy-to-understand language.
 
-*ELI15 (Explain Like I'm 15)*: This level of documentation is designed for people who have some basic knowledge of the topic, but may not be experts. It should provide more detailed information and explanations than the ELI5 level, but still use language that is easy to understand.
+### ELI15 (Explain Like I'm 15)
+This level of documentation is designed for people who have some basic knowledge of the topic, but may not be experts. It should provide more detailed information and explanations than the ELI5 level, but still use language that is easy to understand.
 
-*ELI25 (Explain Like I'm 25)*: This level of documentation is designed for people who are experts in the topic. It should provide in-depth information and technical details that are relevant to the topic.
+### ELI25 (Explain Like I'm 25)
+This level of documentation is designed for people who are experts in the topic. It should provide in-depth information and technical details that are relevant to the topic.
 
 ## Implementation:
 
