@@ -1,15 +1,15 @@
 [![CC BY 0.0][cc-by-shield]][cc-by]
 ------
 
-# ELI5/15/25 Documentation Convention
+# ELI5/15/25 Documentation Paradigm
 
 ## Introduction
 
-Good documentation is essential for any project, and it is important to ensure that it is accessible to people with a wide range of skill levels. In order to make documentation as accessible as possible, we propose a new convention called ELI5/15/25.
+Good documentation is essential for any project, and it is important to ensure that it is accessible to people with a wide range of skill levels. In order to make documentation as accessible as possible, we propose a new paradigm called ELI5/15/25.
 
-## Convention
+## Paradigm
 
-The ELI5/15/25 convention consists of three levels of documentation, each catering to a different skill level:
+The ELI5/15/25 paradigm consists of three levels of documentation, each catering to a different skill level:
 
 ### ELI5 (Explain Like I'm 5)
 This level of documentation is designed for people who are new to the topic or have little prior knowledge. It should provide a high-level overview of the topic and use simple, easy-to-understand language.
@@ -22,13 +22,13 @@ This level of documentation is designed for people who are experts in the topic.
 
 ## Implementation
 
-In order to implement the ELI5/15/25 convention, documentation should be organized into sections or subsections corresponding to each of the three levels. For example, a section titled "ELI5: Introduction to X" would provide a high-level overview of X, while a section titled "ELI25: Advanced techniques for X" would provide detailed technical information.
+In order to implement the ELI5/15/25 paradigm, documentation should be organized into sections or subsections corresponding to each of the three levels. For example, a section titled "ELI5: Introduction to X" would provide a high-level overview of X, while a section titled "ELI25: Advanced techniques for X" would provide detailed technical information.
 
 It is also important to ensure that the language used in each level of documentation is appropriate for the intended audience. ELI5 sections should use simple, easy-to-understand language, while ELI25 sections can use more technical terms and jargon.
 
 ## Benefits
 
-The ELI5/15/25 convention has several benefits:
+The paradigm has several benefits:
 
 - It makes documentation more accessible to people with a wide range of skill levels. By providing different levels of information, people can easily find the information that is most relevant and understandable to them.
 
